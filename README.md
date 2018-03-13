@@ -1,5 +1,5 @@
 ## Peer-graded Assignment: Bash, Make, Git, and GitHub
-makefile run at {b}13:00{/b} on {b}Friday the 09-Mar-18{/b}
+makefile run at **16:52** on **Tuesday the 13-Mar-18**
  
 Number of lines in guessinggame.sh:
 49

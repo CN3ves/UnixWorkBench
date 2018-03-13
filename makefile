@@ -11,7 +11,7 @@ title:
 	echo "## Peer-graded Assignment: Bash, Make, Git, and GitHub" >> README.md
 # The date and time at which make was run.
 date: 
-	date +"makefile run at {b}%H:%M{/b} on {b}%A the %d-%h-%y{/b}" >> README.md
+	date +"makefile run at **%H:%M** on **%A the %d-%h-%y**" >> README.md
 	echo ' ' >> README.md
 # The number of lines of code contained in guessinggame.sh.
 lines: guessinggame.sh
