@@ -4,7 +4,6 @@ all: readme title date lines
 
 # The makefile should produce the README.md which should contain the following information:
 readme: 
-	rm README.md
 	touch README.md
 # The title of the project.
 title: 

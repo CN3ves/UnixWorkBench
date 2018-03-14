@@ -46,5 +46,5 @@ done
 if [[ $n -eq $answer ]]
 then 
 	echo "Well done you! There are $answer files in the current directory!"
-fi
+fi # 23 lines of actual code by the way :)
 # 50 lines of code.
